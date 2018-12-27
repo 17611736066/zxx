@@ -4,5 +4,5 @@ spring:
     #主配置
     url: jdbc:mysql://localhost/activiti?characterEncoding=UTF-8&zeroDateTimeBehavior=convertToNull
     username: root
-    password: root
+    password: 123456
     driver-class-name: com.mysql.jdbc.Driver
