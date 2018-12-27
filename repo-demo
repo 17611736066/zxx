@@ -1,0 +1,8 @@
+spring:
+  #数据源配置
+  datasource:
+    #主配置
+    url: jdbc:mysql://localhost/activiti?characterEncoding=UTF-8&zeroDateTimeBehavior=convertToNull
+    username: root
+    password: root
+    driver-class-name: com.mysql.jdbc.Driver
